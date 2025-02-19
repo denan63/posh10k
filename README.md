@@ -33,3 +33,6 @@ oh-my-posh init pwsh --config ~/posh10k_rainbow.omp.json | Invoke-Expression
 ## Customization
 If you want to customize this theme, edit the `.json` file in a text editor of your choice.
 A full tutorial is available [here](https://ohmyposh.dev/docs/installation/customize)
+
+## Credits
+File [`posh10k_rainbow.omp.json`](./posh10k_rainbow.omp.json) is a modified version of the original [Jan De Dobbeleer's theme](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/powerlevel10k_rainbow.omp.json) (MIT License).
